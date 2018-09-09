@@ -1,1 +1,3 @@
 In the HS training set, there are a total of 302 labels of 81,445 sequences, and the number of sequences under each label is greater than 100 amino acids.
+
+NOTE: The HS data is using in "The data set for 5x cross validation -pVOG" !
